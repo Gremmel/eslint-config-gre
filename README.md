@@ -1,10 +1,10 @@
-# eslint-config-swe
+# eslint-config-gre
 
-eslint-config-swe beinhaltet die regeln für javascript
+eslint-config-gre beinhaltet die regeln für javascript
 
 ## Installation
 
 ```shell
-$ npm install eslint-config-swe
+$ npm install eslint-config-gre
 ```
 
