@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-gre",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "eslint-config-gre",
   "main": "rules.js",
   "dependencies": { },

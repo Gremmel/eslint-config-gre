@@ -405,12 +405,12 @@ const rules = {
   'prefer-template': 'off',
   'require-yield': 'error',
   'rest-spread-spacing': [ 'error', 'never' ],
-  'sort-imports': [ 'error', {
-    ignoreCase: true,
-    ignoreDeclarationSort: false,
-    ignoreMemberSort: false,
-    memberSyntaxSortOrder: [ 'single', 'multiple', 'all', 'none' ]
-  }],
+  // 'sort-imports': [ 'error', {
+  //   ignoreCase: true,
+  //   ignoreDeclarationSort: false,
+  //   ignoreMemberSort: false,
+  //   memberSyntaxSortOrder: [ 'single', 'multiple', 'all', 'none' ]
+  // }],
   'symbol-description': 'error',
   'template-curly-spacing': [ 'error', 'never' ],
   'yield-star-spacing': [ 'error', { before: true, after: true }]
